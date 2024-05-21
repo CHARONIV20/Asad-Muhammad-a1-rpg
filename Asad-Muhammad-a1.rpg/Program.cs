@@ -56,9 +56,9 @@
                     }
                     else if (input == "take key")
                     {
-                        if (keyLocation == "pn the shelf")
+                        if (keyLocation == "on the shelf")
                         {
-                            keyLocation = "om the shelf";
+                            keyLocation = "on the shelf";
                             Console.WriteLine("pick the key up.");
 
                         }
